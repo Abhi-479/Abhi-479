@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Abhi-479
+- 👋 Hi, I’m @Abhishek Gawali
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaboration
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 mail :- abhishekgawali479@gmail.com
+  
 
 <!---
 Abhi-479/Abhi-479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
